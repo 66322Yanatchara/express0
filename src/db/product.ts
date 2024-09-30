@@ -133,7 +133,7 @@ const updateProduct = async (
 
 // เรียกใช้ฟังก์ชันหลัก
 const main = async () => {
-  const studentid = 6604101322;
+  const studentid = 322;
   const name = "ญาณัจฉรา";
   const lastname = "ฟองลอย";
 
